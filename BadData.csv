@@ -1,0 +1,104 @@
+ID,Age,Gender,Income,Date of Joining,City,Happiness Score,Email_Postal,Education
+1,30,Female,70000.0,2020-01-01,Chicago,60,"user85@example.com,26023",Bachelor
+2,25,male,30000.0,2020-01-02,Los Angeles,70,"user37@example.com,55758",PhD
+3,45,Female,110000.0,2020-01-03,phoenix,50,"user85@example.com,19268",Bachelor
+4,40,male,50000.0,2020-01-04,Los Angeles,100,"user80@example.com,97313",Master
+5,40,Male,70000.0,2020-01-05,,70,"user12@example.com,12695",PhD
+6,35,male,,2020-01-06,Houston,150,"user31@example.com,49099",Master
+7,30,M,90000.0,2020-01-07,los angeles,70,"user40@example.com,12747",Master
+8,30,female,50000.0,2020-01-08,Los Angeles,50,"user26@example.com,77969",Bachelor
+9,60,female,110000.0,2020-01-09,phoenix,90,"user4@example.com,92386",PhD
+10,25,M,50000.0,2020-01-10,Houston,100,"user32@example.com,87189",PhD
+11,25,female,,2020-01-11,phoenix,50,"user79@example.com,15258",PhD
+12,30,male,110000.0,2020-01-12,phoenix,100,"user10@example.com,29457",PhD
+13,40,Male,110000.0,2020-01-13,New York,80,"user54@example.com,92798",Bachelor
+14,40,female,90000.0,2020-01-14,phoenix,80,"user74@example.com,81932",Bachelor
+15,25,Male,50000.0,2020-01-15,Los Angeles,60,"user92@example.com,61214",Master
+16,40,M,90000.0,2020-01-16,los angeles,100,"user50@example.com,50757",Bachelor
+17,60,Male,90000.0,2020-01-17,,150,"user52@example.com,94654",PhD
+18,40,Female,50000.0,2020-01-18,phoenix,70,"user19@example.com,22185",Bachelor
+19,70,F,30000.0,2020-01-19,phoenix,80,"user89@example.com,25795",Master
+20,45,Female,30000.0,2020-01-20,HOUSTON,70,"user97@example.com,15258",PhD
+21,25,M,,2020-01-21,New york,70,"user14@example.com,97538",PhD
+22,35,female,90000.0,2020-01-22,Phoenix,150,"user55@example.com,12747",Master
+23,60,female,70000.0,2020-01-23,Houston,50,"user23@example.com,61214",Master
+24,50,Male,90000.0,2020-01-24,,70,"user67@example.com,76557",PhD
+25,45,male,90000.0,2020-01-25,New york,100,"user7@example.com,21534",Bachelor
+26,35,F,90000.0,2020-01-26,Houston,150,"user32@example.com,69735",Bachelor
+27,40,male,,2020-01-27,Phoenix,80,"user59@example.com,74925",PhD
+28,50,M,30000.0,2020-01-28,los angeles,90,"user60@example.com,96779",PhD
+29,30,female,,2020-01-29,Chicago,70,"user68@example.com,21534",PhD
+30,30,Male,,2020-01-30,,60,"user77@example.com,51606",Bachelor
+31,60,female,,2020-01-31,,150,"user97@example.com,79479",Bachelor
+32,30,male,30000.0,2020-02-01,Phoenix,50,"user79@example.com,50774",PhD
+33,50,male,30000.0,2020-02-02,chicago,200,"user65@example.com,45920",Master
+34,50,F,90000.0,2020-02-03,New york,80,"user71@example.com,99475",PhD
+35,45,F,,2020-02-04,Los Angeles,80,"user21@example.com,77563",PhD
+36,25,Male,70000.0,2020-02-05,New York,200,"user61@example.com,99475",Bachelor
+37,70,F,30000.0,2020-02-06,chicago,100,"user34@example.com,12695",PhD
+38,30,male,50000.0,2020-02-07,phoenix,90,"user32@example.com,19268",Bachelor
+39,60,male,50000.0,2020-02-08,phoenix,80,"user36@example.com,15258",Master
+40,30,M,50000.0,2020-02-09,Los Angeles,80,"user100@example.com,82409",PhD
+41,45,male,110000.0,2020-02-10,Los Angeles,50,"user63@example.com,92798",Master
+42,50,Male,90000.0,2020-02-11,HOUSTON,80,"user31@example.com,76803",PhD
+43,40,Female,50000.0,2020-02-12,Houston,150,"user57@example.com,70263",Master
+44,30,M,90000.0,2020-02-13,HOUSTON,100,"user92@example.com,41551",Bachelor
+45,25,M,50000.0,2020-02-14,Phoenix,90,"user31@example.com,66886",PhD
+46,40,Male,70000.0,2020-02-15,Chicago,60,"user43@example.com,51606",PhD
+47,45,Male,90000.0,2020-02-16,New york,90,"user70@example.com,26023",Master
+48,30,F,50000.0,2020-02-17,Los Angeles,100,"user18@example.com,15311",Bachelor
+49,40,M,30000.0,2020-02-18,Houston,150,"user30@example.com,78148",Master
+50,30,F,90000.0,2020-02-19,New york,100,"user89@example.com,15311",Master
+51,60,male,110000.0,2020-02-20,Phoenix,50,"user91@example.com,28431",Bachelor
+52,45,M,30000.0,2020-02-21,Chicago,60,"user9@example.com,90077",Master
+53,70,M,30000.0,2020-02-22,chicago,90,"user53@example.com,97313",Master
+54,50,female,,2020-02-23,HOUSTON,70,"user70@example.com,76557",PhD
+55,35,Female,110000.0,2020-02-24,Phoenix,90,"user54@example.com,97498",Master
+56,50,M,30000.0,2020-02-25,phoenix,50,"user27@example.com,90077",PhD
+57,50,male,30000.0,2020-02-26,,60,"user50@example.com,15258",Bachelor
+58,40,F,50000.0,2020-02-27,HOUSTON,150,"user75@example.com,61214",Master
+59,45,F,50000.0,2020-02-28,New York,100,"user3@example.com,58190",Bachelor
+60,30,female,90000.0,2020-02-29,,100,"user74@example.com,33897",PhD
+61,35,Female,90000.0,2020-03-01,HOUSTON,150,"user62@example.com,25795",PhD
+62,40,male,90000.0,2020-03-02,Phoenix,60,"user46@example.com,79092",PhD
+63,35,F,50000.0,2020-03-03,,150,"user97@example.com,78148",Master
+64,70,Male,90000.0,2020-03-04,Los Angeles,80,"user54@example.com,75697",PhD
+65,60,male,30000.0,2020-03-05,Chicago,90,"user96@example.com,72592",PhD
+66,45,male,50000.0,2020-03-06,Phoenix,50,"user70@example.com,33247",Master
+67,40,Female,90000.0,2020-03-07,Los Angeles,150,"user29@example.com,62995",Master
+68,50,F,30000.0,2020-03-08,Los Angeles,50,"user29@example.com,66886",Master
+69,25,male,90000.0,2020-03-09,HOUSTON,80,"user56@example.com,62995",PhD
+70,40,female,70000.0,2020-03-10,Chicago,100,"user4@example.com,78148",PhD
+71,25,female,90000.0,2020-03-11,Phoenix,150,"user44@example.com,96779",Master
+72,50,F,70000.0,2020-03-12,Phoenix,60,"user87@example.com,58555",Master
+73,60,female,90000.0,2020-03-13,phoenix,100,"user93@example.com,63707",Bachelor
+74,45,Male,,2020-03-14,Houston,100,"user60@example.com,72955",Bachelor
+75,30,Female,,2020-03-15,New york,60,"user80@example.com,75697",Master
+76,40,female,110000.0,2020-03-16,Houston,90,"user4@example.com,33483",Master
+77,50,female,,2020-03-17,,90,"user76@example.com,50397",Bachelor
+78,40,Male,,2020-03-18,,150,"user85@example.com,64886",Master
+79,70,Female,90000.0,2020-03-19,Phoenix,100,"user11@example.com,96807",PhD
+80,60,male,50000.0,2020-03-20,HOUSTON,150,"user55@example.com,74925",PhD
+81,70,Female,50000.0,2020-03-21,chicago,90,"user60@example.com,38693",PhD
+82,35,M,70000.0,2020-03-22,Phoenix,70,"user7@example.com,77435",Master
+83,45,F,50000.0,2020-03-23,New York,80,"user49@example.com,90038",Master
+84,35,F,30000.0,2020-03-24,Los Angeles,150,"user28@example.com,29457",Bachelor
+85,40,M,110000.0,2020-03-25,,150,"user42@example.com,20627",Master
+86,45,Male,,2020-03-26,los angeles,70,"user98@example.com,33897",Master
+87,60,M,110000.0,2020-03-27,Phoenix,90,"user36@example.com,12695",Bachelor
+88,60,male,30000.0,2020-03-28,New York,150,"user54@example.com,45773",Master
+89,50,male,,2020-03-29,New York,50,"user11@example.com,87189",Bachelor
+90,40,F,70000.0,2020-03-30,New york,90,"user3@example.com,77563",Master
+91,35,male,30000.0,2020-03-31,Chicago,90,"user70@example.com,47194",Master
+92,70,F,30000.0,2020-04-01,,80,"user45@example.com,12747",Master
+93,30,M,110000.0,2020-04-02,Phoenix,150,"user84@example.com,54131",Master
+94,25,M,90000.0,2020-04-03,Chicago,100,"user100@example.com,22185",PhD
+95,30,female,110000.0,2020-04-04,chicago,200,"user6@example.com,12695",PhD
+96,35,female,110000.0,2020-04-05,HOUSTON,200,"user4@example.com,94654",Master
+97,35,M,50000.0,2020-04-06,los angeles,200,"user26@example.com,86820",PhD
+98,60,F,30000.0,2020-04-07,HOUSTON,80,"user80@example.com,15311",Bachelor
+99,30,M,110000.0,2020-04-08,New York,200,"user31@example.com,72955",PhD
+100,60,M,30000.0,2020-04-09,Los Angeles,70,"user61@example.com,96779",Bachelor
+93,30,M,110000.0,2020-04-02,Phoenix,150,"user84@example.com,54131",Master
+53,70,M,30000.0,2020-02-22,chicago,90,"user53@example.com,97313",Master
+63,35,F,50000.0,2020-03-03,,150,"user97@example.com,78148",Master
